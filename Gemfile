@@ -1,7 +1,10 @@
-source "https://rubygems.org"
+# source "https://rubygems.org"
+#
+# gem "jekyll"
+# gem "jekyll-sitemap"
+# gem "jekyll-gist"
+# gem "jekyll-feed"
+# gem "minima"
 
-gem "jekyll"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem "jekyll-feed"
-gem "minima"
+
+gem "jekyll-theme-minimal"
